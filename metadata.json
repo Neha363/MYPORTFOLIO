@@ -1,0 +1,6 @@
+{
+  "name": "Obsidian Kinetic",
+  "description": "High-performance AI & ML systems engineering portfolio and research console built with deep obsidian glassmorphism, interactive model inference, and real-time benchmark telemetry.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
